@@ -1,0 +1,24 @@
+.main-container {
+    padding: 32px 16px;
+}
+
+.add-container {
+    margin-bottom: 20px;
+}
+
+.add-container form {
+    display: flex;
+    align-items: flex-end;
+    gap: 20px;
+}
+
+.button-container {
+    margin: 20px 0;
+}
+
+.title {
+    margin-bottom: 16px;
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+}

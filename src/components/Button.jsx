@@ -2,7 +2,7 @@ import "../css/Button.css";
 
 function Button({ type = "button", text, disabled, onClick}) {
     return (
-        <div className="button-container">
+        <div>
             <button
                 className="button"
                 type={type}
