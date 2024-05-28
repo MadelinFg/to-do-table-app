@@ -1,0 +1,17 @@
+.button-container {
+    margin: 10px 0;
+}
+
+.button {
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-wrap: nowrap;
+    background: var(--yellow);
+    border-radius: 20px;
+}
+
+.button:hover {
+    background: var(--yellow);
+}
+
